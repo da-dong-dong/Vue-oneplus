@@ -4,7 +4,13 @@
 
 ## 使用技术栈 vue element-ui 库 sass 编译 animate.css 动画库
 
-链接：
+### hash 模式有
+
+链接：https://da-dong-dong.github.io/Vue-oneplus/ok
+
+### history 模式
+
+链接：https://da-dong-dong.github.io/Vue-oneplus/ok1
 
 ## Project setup
 
